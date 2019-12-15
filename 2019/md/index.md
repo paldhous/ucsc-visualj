@@ -40,7 +40,7 @@ Source: [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
 
 #### Lyme Disease Incidence
 
-<iframe width="100%" height="500" frameborder="0" scrolling="no" src="assets/erin_garcia.html"></iframe>
+![](img/erin_garcia_heatmap.png)
 
 Source: [CDC](https://www.cdc.gov/lyme/stats/tables.html)
 
